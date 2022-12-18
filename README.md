@@ -17,5 +17,5 @@
  ### 6. Sign the transaction by using transaction ID
  ### 7. UnSignTransaction by using Transaction ID
  ### 8. check the transaction details by using Transaction Id
- ### 9.Click on Complete Transaction.
+ ### 9.Click on Complete Transaction function by adding transaction ID.
  #### ** transaction will be completed.
